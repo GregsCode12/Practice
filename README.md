@@ -1,2 +1,2 @@
 # Practice
-Different practice scripts-
+Different practice scripts.
